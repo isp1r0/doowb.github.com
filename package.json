@@ -56,6 +56,6 @@
   "dependencies": {
     "async": "~0.2.9",
     "event-stream": "~3.0.20",
-    "fs-utils": "~0.1.11"
+    "fs-utils": "~0.7.0"
   }
 }
