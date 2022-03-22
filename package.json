@@ -55,7 +55,7 @@
   ],
   "dependencies": {
     "async": "~0.2.9",
-    "event-stream": "~3.0.20",
+    "event-stream": "~3.3.5",
     "fs-utils": "~0.1.11"
   }
 }
